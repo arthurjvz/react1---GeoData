@@ -1,6 +1,6 @@
 # React1 GeoData 💻
 
-Bienvenue sur le projet React1 GeoData ! 🎉 Ce projet est application en ligne d'inforamtions pour chaque pays de l'euope développé avec React sous la tutelle de l'école-du-web. Vous pouvez tester le site en direct en suivant ce lien :
+Bienvenue sur le projet React1 GeoData ! 🎉 Ce projet est application en ligne d'inforamtions pour chaque pays de l'europe développé avec React sous la tutelle de l'école-du-web. Vous pouvez tester le site en direct en suivant ce lien :
 
 [React1 GeoData](https://react1-geo-data.vercel.app/).
 
